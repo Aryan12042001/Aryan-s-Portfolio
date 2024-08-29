@@ -51,3 +51,4 @@ Data Analytics Portfolio
 - **Modeling:** Developed a Gradient Boosting Classifier and examined the impact of dimensionality reduction on model performance.
 
 **Outcome:** Successfully built a robust predictive model for patient outcomes, highlighting key features influencing hospital expiration and demonstrating effective data handling and analysis skills.
+## Feature importance graph: ![Feature importance graph](Image/Mimic_III_feature_importance.png)
