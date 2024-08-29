@@ -13,6 +13,7 @@ Data Analytics Portfolio
 
 **Outcome:** The Stacked Genetic Algorithm model demonstrated superior performance with high accuracy and robustness, outperforming individual models and various feature sets.
 
+## Workflow of the project: ![WorkFlow](workflow.png)
 ---
 
 ## [Electric Vehicle Lithium-ion Battery Ageing Analysis Under Dynamic Conditions](https://github.com/Aryan12042001/CPSC_4830)
