@@ -2,7 +2,7 @@
 Data Analytics Portfolio
 
 
-## Heart Disease Prediction Using Genetic Algorithms and Ensemble Learning
+## Heart Disease Prediction Using Genetic Algorithms and Ensemble Learning(https://github.com/Aryan12042001/4830_Project)
 
 **Project Overview:** Developed an advanced predictive model for heart disease using Genetic Algorithms (GA) for feature selection and Ensemble Learning methods. The project aimed to enhance prediction accuracy by optimizing feature subsets and combining multiple models.
 
@@ -15,7 +15,7 @@ Data Analytics Portfolio
 
 ---
 
-## Electric Vehicle Lithium-ion Battery Ageing Analysis Under Dynamic Conditions
+## Electric Vehicle Lithium-ion Battery Ageing Analysis Under Dynamic Conditions(https://github.com/Aryan12042001/CPSC_4830)
 
 **Project Overview:** Analyzed lithium-ion battery health and performance in electric vehicles using machine learning techniques to predict battery state of health (SOH) and remaining useful life (RUL).
 
@@ -28,7 +28,7 @@ Data Analytics Portfolio
 
 ---
 
-## DANA_4840 Project: Clustering and Classification
+## DANA_4840 Project: Clustering and Classification(https://github.com/Aryan12042001/DANA_4840_Project)
 
 **Project Overview:** Conducted clustering analyses using k-means, PAM, and hierarchical methods on multiple datasets to explore clustering tendencies and determine optimal cluster numbers.
 
@@ -40,7 +40,7 @@ Data Analytics Portfolio
 
 ---
 
-## MIMIC-III Database Analysis and Classification
+## MIMIC-III Database Analysis and Classification(https://github.com/Aryan12042001/Mimic-III)
 
 **Project Overview:** Set up and analyzed a PostgreSQL database derived from the MIMIC-III ICU dataset to predict patient outcomes, specifically hospital expiration.
 
