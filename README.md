@@ -13,7 +13,7 @@ Data Analytics Portfolio
 
 **Outcome:** The Stacked Genetic Algorithm model demonstrated superior performance with high accuracy and robustness, outperforming individual models and various feature sets.
 
-## Workflow of the project: ![WorkFlow](workflow.png)
+## Workflow of the project: ![WorkFlow](Image/workflow.png)
 ---
 
 ## [Electric Vehicle Lithium-ion Battery Ageing Analysis Under Dynamic Conditions](https://github.com/Aryan12042001/CPSC_4830)
@@ -26,7 +26,7 @@ Data Analytics Portfolio
 - **Evaluation Metrics:** Focused on RMSE, MAE, and R2 scores to gauge model effectiveness.
 
 **Outcome:** XGBoost Regressor was identified as the most effective model, significantly improving battery health predictions and providing valuable insights into battery aging dynamics.
-
+## Comparison of the different models tested: ![Model_comparison](Image/model_comparison.png)
 ---
 
 ## [DANA_4840 Project: Clustering and Classification](https://github.com/Aryan12042001/DANA_4840_Project)
