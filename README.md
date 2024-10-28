@@ -6,7 +6,7 @@ I'm Aryan Mukherjee, a Data Analytics professional currently pursuing a Post-Deg
 
 In my projects, I consistently aim to improve predictive accuracy and interpretability, often using advanced techniques such as Genetic Algorithms for feature selection and ensemble learning methods. Outside of academics, I'm deeply interested in exploring machine learning innovations, especially in healthcare analytics and sustainable technology. I enjoy continuous learning and am committed to honing my skills in Python, SQL, R, and other data-focused languages and tools.
 
-##Education
+## Education
 ###Post-Degree Diploma in Data Analytics
 Langara College, Vancouver, BC
 Expected Completion: 2025
