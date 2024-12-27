@@ -1,5 +1,8 @@
-title : Aryan Mukherjee
-#logo: /assets/img/headshot_circle.png
-#description: text below image
+title: Aryan Mukherjee
+logo: /assets/img/headshot_circle.png
+description: |
+  I’m Aryan Mukherjee, a Data Analytics professional currently pursuing a Post-Degree Diploma in Data Analytics at Langara College, Vancouver. With a strong background in data processing, statistical modeling, and machine learning, I aim to leverage my skills to uncover actionable insights and drive decision-making processes in real-world scenarios. My portfolio includes a variety of projects that showcase my expertise in feature selection, predictive modeling, clustering, and database management. I’m passionate about applying analytical solutions to complex problems and am eager to bring these skills to dynamic, impact-driven roles in data science and analytics.
+
+  In my projects, I consistently aim to improve predictive accuracy and interpretability, often using advanced techniques such as Genetic Algorithms for feature selection and ensemble learning methods. Outside of academics, I’m deeply interested in exploring machine learning innovations, especially in healthcare analytics and sustainable technology. I enjoy continuous learning and am committed to honing my skills in Python, SQL, R, and other data-focused languages and tools.
 show_downloads: true
 theme: jekyll-theme-minimal
