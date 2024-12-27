@@ -1,21 +1,6 @@
 # Aryan-s-Portfolio
 Data Analytics Portfolio
 
-## About Me
-I'm Aryan Mukherjee, a Data Analytics professional currently pursuing a Post-Degree Diploma in Data Analytics at Langara College, Vancouver. With a strong background in data processing, statistical modeling, and machine learning, I aim to leverage my skills to uncover actionable insights and drive decision-making processes in real-world scenarios. My portfolio includes a variety of projects that showcase my expertise in feature selection, predictive modeling, clustering, and database management. I'm passionate about applying analytical solutions to complex problems and am eager to bring these skills to dynamic, impact-driven roles in data science and analytics.
-
-In my projects, I consistently aim to improve predictive accuracy and interpretability, often using advanced techniques such as Genetic Algorithms for feature selection and ensemble learning methods. Outside of academics, I'm deeply interested in exploring machine learning innovations, especially in healthcare analytics and sustainable technology. I enjoy continuous learning and am committed to honing my skills in Python, SQL, R, and other data-focused languages and tools.
-
-## Education
-### Post-Degree Diploma in Data Analytics
-Langara College, Vancouver, BC
-Expected Completion: 2025
-
-This program has provided me with in-depth training in data manipulation, statistical analysis, machine learning, and visualization. Through hands-on projects and assignments, I've gained experience in analyzing real-world datasets, building predictive models, and using tools like SQL, Python, and R to solve complex analytical problems. Key courses include:
-
-#### Advanced Data Analysis and Modeling: Focused on machine learning algorithms, feature selection, and predictive modeling.
-#### Big Data Analytics: Covered data processing in SQL and NoSQL databases, cloud computing, and handling large datasets.
-#### Project Management: Provided foundational skills in managing analytics projects, risk assessment, and stakeholder communication.
 
 ## [Heart Disease Prediction Using Genetic Algorithms and Ensemble Learning](https://github.com/Aryan12042001/4830_Project)
 
@@ -67,3 +52,16 @@ This program has provided me with in-depth training in data manipulation, statis
 
 **Outcome:** Successfully built a robust predictive model for patient outcomes, highlighting key features influencing hospital expiration and demonstrating effective data handling and analysis skills.
 ## Feature importance graph: ![Feature importance graph](Image/Mimic_III_feature_importance.png)
+
+
+## Education
+### Post-Degree Diploma in Data Analytics
+Langara College, Vancouver, BC
+Expected Completion: 2025
+
+This program has provided me with in-depth training in data manipulation, statistical analysis, machine learning, and visualization. Through hands-on projects and assignments, I've gained experience in analyzing real-world datasets, building predictive models, and using tools like SQL, Python, and R to solve complex analytical problems. Key courses include:
+
+#### Advanced Data Analysis and Modeling: Focused on machine learning algorithms, feature selection, and predictive modeling.
+#### Big Data Analytics: Covered data processing in SQL and NoSQL databases, cloud computing, and handling large datasets.
+#### Project Management: Provided foundational skills in managing analytics projects, risk assessment, and stakeholder communication.
+
