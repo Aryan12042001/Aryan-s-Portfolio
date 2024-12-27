@@ -1,5 +1,4 @@
-# Aryan-s-Portfolio
-Data Analytics Portfolio
+# Data Analytics Portfolio
 
 ## **Featured Projects**
 
