@@ -54,7 +54,8 @@ This project tackles heart disease prediction by combining Genetic Algorithms fo
 
 **Applications**  
 Provides actionable insights for doctors and nurses to make informed decisions based on predicted outcomes.  
-
+## Workflow of the project:
+![WorkFlow](Image/workflow.png) - heart-disease
 ---
 
 ### [**Electric Vehicle Lithium-ion Battery Aging Analysis**](https://github.com/Aryan12042001/CPSC_4830)  
@@ -65,7 +66,8 @@ Analyzed lithium-ion battery health in electric vehicles to predict the state of
 - **Modeling**: Compared Linear Regression, SVR, and XGBoost models, with XGBoost achieving the highest accuracy.  
 - **Practical Implications**: Helps manufacturers improve battery efficiency and lifespan.  
 - **Sustainability Impact**: Contributes to eco-friendly advancements by optimizing energy usage and battery longevity.  
-
+## Battery: Comparison of the different models tested:
+![Model_comparison](Image/model_comparison.png)
 ---
 
 ### [**DANA 4840: Clustering and Classification**](https://github.com/Aryan12042001/DANA_4840_Project)  
@@ -86,7 +88,8 @@ Analyzed patient ICU data from the MIMIC-III database to predict hospital outcom
 - **Predictive Modeling**: Used Gradient Boosting Classifiers and PCA for dimensionality reduction.  
 - **Data Ethics**: Ensured privacy with anonymized data.  
 - **Applications**: Provides hospitals with actionable insights to improve patient care and outcomes.  
-
+## MIMIC: Feature importance graph:
+![Feature importance graph](Image/Mimic_III_feature_importance.png)
 ---
 
 ## **Education**  
