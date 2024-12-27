@@ -25,7 +25,8 @@ This dashboard is designed to visualize and analyze the S&P 500 index's performa
 **Impact and Future Applications**  
 - A valuable tool for investors and analysts to make data-driven decisions.  
 - Future scope includes expanding to other indices or stocks and incorporating predictive modeling.  
-
+## S&P 500 example:
+![S&P 500](Image/S&P 500.png)
 ---
 
 ### **Glycerin-to-Glycol Production Using Machine Learning**  
@@ -33,9 +34,15 @@ This dashboard is designed to visualize and analyze the S&P 500 index's performa
 This project optimizes the conversion of glycerin (a biodiesel by-product) into ethylene glycol (EG) and propylene glycol (PG). By leveraging machine learning, it predicts yields, identifies anomalies, and optimizes input variables to streamline production and enhance efficiency.  
 
 **Key Features**  
-- **Predictive Modeling**: Built models to forecast yields based on hydrogen flow, pressure, temperature, and other factors.  
-- **Optimization**: Used a stacked model with a Genetic Algorithm to increase PG yield by over 7%.  
-- **Anomaly Detection**: Implemented machine learning to flag operational issues and predict failures with accuracy.  
+- **Predictive Modeling**: Built models to forecast yields based on hydrogen flow, pressure, temperature, and other factors.
+- ## Optimizing Yield:![Optimizing Yield](Image/optimizing_yield.png)
+- **Optimization**: Used a stacked model with a Genetic Algorithm to increase PG yield by over 7%.
+- ## Optimal Values:
+![Optimal Values](Image/optimal_values.png)
+
+- **Anomaly Detection**: Implemented machine learning to flag operational issues and predict failures with accuracy.
+- ## Anomaly Detection:
+![Anomaly](Image/anomoly.png)  
 
 **Applications**  
 - A potential app for workers to input real-time process parameters and get automated recommendations to optimize production.  
