@@ -2,7 +2,7 @@
 
 ## **Featured Projects**
 
-### **S&P 500 Live Dashboard with ChatGPT Integration**  
+### [**S&P 500 Live Dashboard with ChatGPT Integration**](https://github.com/Aryan12042001/S-P-500-dashboard)
 **Project Overview**  
 This dashboard is designed to visualize and analyze the S&P 500 index's performance across multiple timeframes. Built using Python’s Streamlit and Plotly libraries, it delivers real-time interaction and data analysis. The integration of ChatGPT enhances the user experience by providing contextual insights about selected data points, such as economic or news events impacting market performance (e.g., COVID-19 during 2019-20).  
 
@@ -29,7 +29,7 @@ This dashboard is designed to visualize and analyze the S&P 500 index's performa
 ![S&P 500](Image/S&P 500.png)
 ---
 
-### **Glycerin-to-Glycol Production Using Machine Learning**  
+### [**Glycerin-to-Glycol Production Using Machine Learning**](https://github.com/Aryan12042001/capstone-project-sanitized)  
 **Project Overview**  
 This project optimizes the conversion of glycerin (a biodiesel by-product) into ethylene glycol (EG) and propylene glycol (PG). By leveraging machine learning, it predicts yields, identifies anomalies, and optimizes input variables to streamline production and enhance efficiency.  
 
