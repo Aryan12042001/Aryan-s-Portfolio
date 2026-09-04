@@ -1,0 +1,15 @@
+document.getElementById('year').textContent = new Date().getFullYear();
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('revealed');
+      observer.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.12 });
+
+document.querySelectorAll('.case, .archive-grid > a, .about-grid').forEach((element) => {
+  element.classList.add('reveal');
+  observer.observe(element);
+});
